@@ -1,0 +1,1 @@
+void lerFicheiroClientes(struct dadosClientes** Cliente);
